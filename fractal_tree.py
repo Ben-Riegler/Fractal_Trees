@@ -21,7 +21,6 @@ class fractal_tree:
 
         # break recursion if depth is reached
         if len(call) > self.depth:
-
     
             return None
 
