@@ -1,11 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-
-
-
-
-
 class node:
     def __init__(self, name, pos):
 
